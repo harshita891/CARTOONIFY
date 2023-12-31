@@ -1,4 +1,4 @@
-# pythoncartoon
+# Pythoncartoon
 This is a Python application that allows you to upload an image and apply a cartoon effect to it.
 
 # Installation
